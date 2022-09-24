@@ -1,6 +1,6 @@
 # VBA-challenge
 
-During this project, The VBA of Wall Street, we analyzed stock market data for three years (2018, 2019 and 2020) using VBA. I created a script that loops through all the stocks for one year outputs the following information:
+During this project, The VBA of Wall Street, we analyzed stock market data for three years (2018, 2019 and 2020) using VBA. I created a script that loops through all of the stocks for one year and outputs the following information:
 
 - The ticker symbol.
 
