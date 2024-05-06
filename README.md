@@ -24,4 +24,4 @@ Analyzes Financial Data using VBA
   - 2020
     ![image](https://github.com/antara2022/Wallstreet-Stock-Insights/assets/112270155/fe08f09c-9027-401b-bd3b-2e26b6ff1886)
 
-Contact: c.antara12@gmail.com
+Contact: antara.choudhury3000@gmail.com
